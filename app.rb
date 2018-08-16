@@ -12,8 +12,6 @@ class App < Sinatra::Base
  get '/mallory' do
    erb :mallory
  end 
- 
-
 end
 
 
